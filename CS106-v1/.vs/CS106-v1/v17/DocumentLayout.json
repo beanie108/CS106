@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\DefectTrackingSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:DefectTrackingSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Defect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:Defect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Administrator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:Administrator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\administrator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:administrator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\DefectTrackingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:DefectTrackingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Defect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:Defect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\usertype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:usertype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\ProjectStatus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:ProjectStatus.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\PriorityLevel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:PriorityLevel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\PriorityLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:PriorityLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\ProjectStatus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22348AF6-EA66-4100-88E3-FDEA117BC981}|CS106-v1.vcxproj|solutionrelative:ProjectStatus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 62,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrator.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Administrator.cpp",
+              "RelativeDocumentMoniker": "Administrator.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Administrator.cpp",
+              "RelativeToolTip": "Administrator.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T02:11:25.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Project.h",
+              "RelativeDocumentMoniker": "Project.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Project.h",
+              "RelativeToolTip": "Project.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T01:59:18.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administrator.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Administrator.h",
+              "RelativeDocumentMoniker": "Administrator.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Administrator.h",
+              "RelativeToolTip": "Administrator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T01:57:28.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AQIAALUAAAAAAAAAAAAIwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T01:45:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Defect.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Defect.h",
+              "RelativeDocumentMoniker": "Defect.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Defect.h",
+              "RelativeToolTip": "Defect.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T01:58:44.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefectTrackingSystem.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\DefectTrackingSystem.h",
+              "RelativeDocumentMoniker": "DefectTrackingSystem.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\DefectTrackingSystem.h",
+              "RelativeToolTip": "DefectTrackingSystem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T02:55:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T01:58:28.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DefectTrackingSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\DefectTrackingSystem.cpp",
+              "RelativeDocumentMoniker": "DefectTrackingSystem.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\DefectTrackingSystem.cpp",
+              "RelativeToolTip": "DefectTrackingSystem.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T02:52:48.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Defect.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Defect.cpp",
+              "RelativeDocumentMoniker": "Defect.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Defect.cpp",
+              "RelativeToolTip": "Defect.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T03:45:28.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T02:10:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usertype.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Usertype.h",
+              "RelativeDocumentMoniker": "Usertype.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\Usertype.h",
+              "RelativeToolTip": "Usertype.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T01:59:38.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectStatus.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\ProjectStatus.h",
+              "RelativeDocumentMoniker": "ProjectStatus.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\ProjectStatus.h",
+              "RelativeToolTip": "ProjectStatus.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T03:40:20.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PriorityLevel.h",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\PriorityLevel.h",
+              "RelativeDocumentMoniker": "PriorityLevel.h",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\PriorityLevel.h",
+              "RelativeToolTip": "PriorityLevel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T03:40:35.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PriorityLevel.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\PriorityLevel.cpp",
+              "RelativeDocumentMoniker": "PriorityLevel.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\PriorityLevel.cpp",
+              "RelativeToolTip": "PriorityLevel.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T03:37:51.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectStatus.cpp",
+              "DocumentMoniker": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\ProjectStatus.cpp",
+              "RelativeDocumentMoniker": "ProjectStatus.cpp",
+              "ToolTip": "C:\\Users\\bjean\\source\\repos\\CS106\\CS106-v1\\ProjectStatus.cpp",
+              "RelativeToolTip": "ProjectStatus.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T03:39:47.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "utility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\utility",
+              "ViewState": "AQIAABsBAAAAAAAAAAD4vzIBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-03T03:26:08.603Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 301,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

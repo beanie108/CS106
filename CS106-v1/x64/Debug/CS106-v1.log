@@ -1,0 +1,10 @@
+﻿  administrator.cpp
+  defect.cpp
+  defecttrackingsystem.cpp
+  employee.cpp
+  main.cpp
+  project.cpp
+  user.cpp
+  usertype.cpp
+  Generating Code...
+  CS106-v1.vcxproj -> C:\Users\bjean\source\repos\CS106\CS106-v1\x64\Debug\CS106-v1.exe
